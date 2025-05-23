@@ -10,7 +10,7 @@
 
 
   </h1> 
-<p align="center">l introduce <b>?GOODCHILD-MD</b>, a powerful simple WhatsApp bot </p>
+<p align="center">l introduce <b>GOODCHILD-MD</b>, a powerful simple WhatsApp bot </p>
 
 </p>
   <p align="center">
@@ -86,7 +86,7 @@ star✨ my repo if you like this bot🤖
 
 
 
-- <a href="https://Leonard-session.onrender.com/wasiqr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a href="https://Goodchild-session.onrender.com/wasiqr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 ### SESSION SITE
 
@@ -134,12 +134,12 @@ star✨ my repo if you like this bot🤖
 CONTACT DEVELOPER ON WHATSAPP 
 
 <a href="https://wa.me/message/255763755563" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/leonard tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/goodchildd tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
   
  
-<a href="https://whatsapp.com/channel/0029VakLfckBlHpYVxryFJ14" target="_blank">
+<a href="https://whatsapp.com/channel/4" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ GOODCHILD_TECH  CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
@@ -157,11 +157,11 @@ The WhatsApp Bot GOODCHILD MD is released under the [MIT License](https://openso
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+GOODCHILD- MD+MADE+IN+TANZANIA+🇹🇿♥️" alt="Typing SVG" /></a>
 
-## 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ𝕊 :
+## 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ :
 
-- [**LEONARD TECH**](http://github.com/zedkazzozoranda091)
+GOODCHILD WILLIAMZ
 
-★im born to win😎. ©
+★UR FUTURE IS CREATED BY WHAT U DO TODAY NOT TOMORROW😎. ©
      
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=keep+using+GOODCHILD+MD😊" alt="Typing SVG" /></a>
@@ -175,11 +175,10 @@ The WhatsApp Bot GOODCHILD MD is released under the [MIT License](https://openso
 <table>
   <tr>
     <td>𝑲𝒊𝒏𝒈 𝐠𝐨𝐨𝐝𝐜𝐡𝐢𝐥𝐝👑</td></td>
-    <td>𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑪𝒉𝒂𝒏𝒏𝒆𝒍</td>
   </tr>
   <tr>
     <td><a href="https://wa.me/255763755563?"><img src="https://files.catbox.moe/8spkl4.jpeg" width="180"</td>
-    <td><a href="https://whatsapp.com/channel/0029VakLfckBlHpYVxryFJ14"><img src="https://files.catbox.moe/38ofr2.jpg" width="180"</td>
+    <td><a href="https://whatsapp.com/channel/"><img src="https://files.catbox.moe/8spkl4.jpeg" width="180"</td>
   </tr>
 </table>
 
