@@ -10,8 +10,8 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/Goodchilwilliamz/GOODCHILD-MD /root/goodchild-bot
-WORKDIR /root/goodchild-Bot/
+RUN git clone https://github.com/9Wish882/GOODCHILD-MD /root/lucky_bot
+WORKDIR /root/lucky_Bot/
 
 
 COPY package.json .
