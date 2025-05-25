@@ -5,7 +5,7 @@ const pino = require("pino");
 const fs = require("fs-extra");
 const path = require("path");
 const conf = require("./set");
-const session = conf.session.replace(/GOODCHILD-MD;;;=>/g, "");
+const session = conf.session.replace(/LUCKY-MD;;;=>/g, "");
 require("dotenv").config({ path: "./config.env" });
 
 let auto_reply_message = "Hello, my owner is unavailable. Kindly leave a message.";
@@ -36,7 +36,7 @@ setTimeout(() => {
     const sockOptions = {
       version,
       logger: pino({ level: "silent" }),
-      browser: ['GOODCHILD-MD', "safari", "1.0.0"],
+      browser: ['LUCKY-MD', "safari", "1.0.0"],
       printQRInTerminal: true,
       fireInitQueries: false,
       shouldSyncHistoryMessage: true,
@@ -96,7 +96,7 @@ setTimeout(() => {
 
         if (deletedMessage) {
           const deletedBy = deletedMessage.key.participant || deletedMessage.key.remoteJid;
-          let notification = `*🤦GOODCHILD ANTIDELETE🤦*`;
+          let notification = `*🔥GOODCHILD ANTIDELETE💚*`;
           notification += `*Time deleted🌹:* ${new Date().toLocaleString()}`;
           notification += `*Deleted by🌺:* @${deletedBy.split('@')[0]}`;
 
@@ -181,7 +181,7 @@ setTimeout(() => {
     }
 
     let lastReactionTime = 0;
-    const loveEmojis = ["❤️", "💖", "💘", "💝", "💓", "💌", "💕", "😎", "🔥", "💥", "💯", "✨", "🌟", "🌈", "⚡", "💎", "🌀", "👑", "🎉", "🎊", "🦄", "👽", "🛸", "🚀", "🦋", "💫", "🍀", "🎶", "🎧", "🎸", "🎤", "🏆", "🏅", "🌍", "🌎", "🌏", "🎮", "🎲", "💪", "🏋️", "🥇", "👟", "🏃", "🚴", "🚶", "🏄", "⛷️", "🕶️", "🧳", "🍿", "🥂", "🍻", "🍷", "🍸", "🥃", "🍾", "🎯", "⏳", "🎁", "🎈", "🎨", "🌻", "🌸", "🌺", "🌹", "🌼", "🌞", "🌝", "🌜", "🌙", "🌚", "🍀", "🌱", "🍃", "🍂", "🌾", "🐉", "🐍", "🦓", "🦄", "🦋", "🦧", "🦘", "🦨", "🦡", "🐉", "🐅", "🐆", "🐓", "🐢", "🐊", "🐠", "🐟", "🐡", "🦑", "🐙", "🦀", "🐬", "🦕", "🦖", "🐾", "🐕", "🐈", "🐇", "🐾"];
+    const loveEmojis = ["❤️", "💖","💙","🤍","💛","💝", "💓", "💌", "💕","💚","🌝"];
 
     if (conf.AUTO_REACT_STATUS === "yes") {
       console.log("AUTO_REACT_STATUS is enabled. Listening for status updates...");
