@@ -1,11 +1,11 @@
 
 
 {
-  "bot-name": "GOODCHILD-MD",
-  "description": "Goodchild Whatsapp device bot made by williamz to help Whatsapp users to enjoy while helping...",
-  "logo": "https://files.catbox.moe/ex1ytd.jpg",
-  "keywords": ["Fredi-Ezra", "goodchild-Md", "mdtech"],
-  "documentation-link": "https://goodchild.onrender.com",
+  "bot-name": "✧⁠GOODCHILD_MD✧ MULT DEVICE BOT",
+  "description": "Goodchild Whatsapp device bot made by goodchild@williamz to help Whatsapp users to enjoy while helping...",
+  "logo": "https://files.catbox.moe/8spkl4.jpeg",
+  "keywords": ["Allan-Davincs", "Goodchild-Md", "mdtech"],
+  "documentation-link": "https://fredietech.onrender.com",
   "owner-verification":"goodchildwilliamz@gmail.com",
   "env": {
     "PREFIX":
@@ -22,7 +22,7 @@
       "AUDIO_REPLY":
     {
       "description":"Enter yes for your bot to auto reply audio in all chats",
-      "value":"yes",
+      "value":"no",
       "required":false
     },
     "AUTO_REPLY": {
@@ -37,7 +37,7 @@
     },
     "AUTO_BIO": {
       "description": "This automatically update your bio status.Always make sure you insert your OWNER_NAME since it uses that to update your bio name status",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
       "AUTO_SAVE_CONTACTS":
@@ -73,7 +73,7 @@
     },
     "BOT_NAME": {
       "description": "you must give a name for you bot uhh??!!",
-      "value": "GOODCHILD-MD",
+      "value": "✧⁠DAVINCS_MD✧",
       "required": false 
     },
     "PUBLIC_MODE": {
@@ -98,12 +98,12 @@
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "Williamz",
+      "value": "Allan@Davincs",
       "required": false
     },
     "URL": {
       "description": "you must add your bot image url.Get your image url now and fill it here",
-      "value": "https://files.catbox.moe/ex1ytd.jpg",
+      "value": "https://files.catbox.moe/6qm1zj.jpg",
       "required": true
     },
     "AUTO_READ_MESSAGES": {
@@ -112,8 +112,8 @@
       "required": false  
     },
     "NUMERO_OWNER": {
-      "description": "Your phone number (exclude '+' and area code, e.g., '255763755563')",
-      "value": "255763755563",
+      "description": "Your phone number (exclude '+' and area code, e.g., '255752593977')",
+      "value": "255752593977",
       "required": false
     },
     "WARN_COUNT": {
@@ -133,12 +133,12 @@
     },
     "ANTI_DELETE_MESSAGE": {
       "description": "Enable anti-delete message (set 'yes' to activate or 'no' to deactivate)",
-      "value": "no",
+      "value": "yes",
       "required": false
     },
     "ANTI_CALL": {
       "description": "Automatically decline incoming calls (set 'on' to activate or 'off' to deactivate)",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "AUTO_BLOCK": {
@@ -152,4 +152,4 @@
       "required": false
     }
   }
-},
+}
