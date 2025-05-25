@@ -1,19 +1,19 @@
 {
-  "name": "GOODCHILD-MD",
-  "description": "goodchild Whatsapp bot made by williamz to help you welcome and enjoy..",
+  "name": "✧⁠GOODCHILD✧ MULT DEVICE BOT",
+  "description": "Davincs Whatsapp device bot made by goodchild@Williamz to enable a user to use whatsapp with more powerful features..",
   "keywords": [
     "bot",
     "node",
     "baileys",
     "whatsapp"
   ],
-  "logo": "https://files.catbox.moe/ex1ytd.jpg",
-  "repository": "https://github.com/Goodchild/GOODCHILD-MD",
+  "logo": "https://files.catbox.moe/8spkl4.jpeg",
+  "repository": "https://github.com/Goodchildwilliamz/GOODCHILD-MD",
   "succes_url": "/",
   "stack": "container",
   "env": {
     "PREFIX": {
-      "description": "Choose your bot's prefix",
+      "description": "Choose your bot's prefix eg !,#,*,.",
       "value": ".",
       "required": true
     },
@@ -25,11 +25,11 @@
       "AUDIO_REPLY":
     {
       "description":"Enter yes for your bot to auto reply audio in all chats",
-      "value":"yes",
+      "value":"no",
       "required":false
     },
     "AUTO_REPLY": {
-      "description": "when enabled it automatically sends  auto reply message to members in your pm",
+      "description": "when enabled it automatically sends  auto reply message to members in your chattings",
       "value": "no",
       "required": false
     },
@@ -40,7 +40,7 @@
     },
     "AUTO_BIO": {
       "description": "This automatically update your bio status.Always make sure you insert your OWNER_NAME since it uses that to update your bio name status",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
       "AUTO_SAVE_CONTACTS":
@@ -56,12 +56,12 @@
     },
     "PM_PERMIT": {
       "description": "Restrict other users from using your bot in private messages (type 'yes' to activate or 'no' to deactivate; don't write in capital letters)",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "AUTO_STATUS_TEXT": {
       "description": "type your genuine status message",
-      "value": "viewed ✅✅",
+      "value": "✅",
       "required": false
     },
     "AUTO_STATUS_REPLY": {
@@ -75,8 +75,8 @@
       "required": false
     },
     "BOT_NAME": {
-      "description": "you must give a name for you bot uhh??!!",
-      "value": "GOODCHILD-MD",
+      "description": "you must name your bot huh!!!!!!",
+      "value": "✧GOODCHILD-𝐌𝐃✧",
       "required": false 
     },
     "PUBLIC_MODE": {
@@ -101,12 +101,12 @@
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "goodchild williamz",
+      "value": "Goodchild#Williamz⚡",
       "required": false
     },
     "URL": {
       "description": "you must add your bot image url.Get your image url now and fill it here",
-      "value": "https://files.catbox.moe/ex1ytd.jpg",
+      "value": "https://files.catbox.moe/4bsa99.jpg",
       "required": true
     },
     "AUTO_READ_MESSAGES": {
@@ -115,8 +115,8 @@
       "required": false  
     },
     "NUMERO_OWNER": {
-      "description": "Your phone number (exclude '+' and area code, e.g., '255763755563 ')",
-      "value": "255763755563",
+      "description": "Your phone number (exclude '+' and area code, e.g., '2557763755563')",
+      "value": "255759637644",
       "required": false
     },
     "WARN_COUNT": {
@@ -136,12 +136,12 @@
     },
     "ANTI_DELETE_MESSAGE": {
       "description": "Enable anti-delete message (set 'yes' to activate or 'no' to deactivate)",
-      "value": "no",
+      "value": "yes",
       "required": false
     },
     "ANTI_CALL": {
       "description": "Automatically decline incoming calls (set 'on' to activate or 'off' to deactivate)",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "AUTO_BLOCK": {
