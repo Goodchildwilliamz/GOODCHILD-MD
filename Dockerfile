@@ -1,4 +1,4 @@
-
+	
 FROM node:lts-buster
 
 RUN apt-get update && \
@@ -10,7 +10,7 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/9Wish882/GOODCHILD-MD /root/lucky_bot
+RUN git clone https://github.com/Goodchildwilliamz/GOODCHILD-MD.git/root/lucky_bot
 WORKDIR /root/lucky_Bot/
 
 
