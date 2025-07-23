@@ -15,7 +15,7 @@
 </p>
   <p align="center">
 <a href="https://github.com/Goodchildwilliamz?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Goodchildwilliamz?label=Followers&style=social"></a>
-<a href="https://github.com/goodchildwilliamz/leonard-md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Goodchildwilliamz/goodchild-md?&style=social"></a>
+<a href="https://github.com/goodchildwilliamz/goodchild-md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Goodchildwilliamz/goodchild-md?&style=social"></a>
 <a href="https://github.com/goodchildwilliamz/goodchild-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/goodchildwilliamz/goodchild-md?style=social"></a>
 <a href="https://github.com/goodchildwilliamz/goodchild-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/goodchildwilliamz/goodchild-md?label=Watching&style=social"></a>
 
